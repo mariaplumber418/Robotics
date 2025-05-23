@@ -1,10 +1,10 @@
 ## Project Visuals
 
 ### LIDAR Scan Output
-![LIDAR Scan](obstacle_avoidance/lidar_scan.png)
+![LIDAR Scan](lidar_scan.png)
 
 ### Path Planning
-![Path Planning]("obstacle_avoidance/Path Planning.png")
+![Path Planning]("Path%20Planning.png")
 
 ### Occupancy Grid
-![Occupancy Grid](obstacle_avoidance/occupancy_grid.png)
+![Occupancy Grid](occupancy_grid.png)
