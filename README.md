@@ -1,7 +1,7 @@
 ## Project Visuals
 
 ### LIDAR Scan Output
-![LIDAR Scan](obstacle_avoidance/lidar_output.png)
+![LIDAR Scan](obstacle_avoidance/lidar_scan.png)
 
 ### Path Planning
 ![Path Planning]("obstacle_avoidance/Path Planning.png")
