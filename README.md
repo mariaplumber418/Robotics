@@ -4,7 +4,7 @@
 ![LIDAR Scan](lidar_scan.png)
 
 ### Path Planning
-![Path Planning]("Path%20Planning.png")
+![Path Planning](Path%20Planning.png)
 
 ### Occupancy Grid
 ![Occupancy Grid](occupancy_grid.png)
